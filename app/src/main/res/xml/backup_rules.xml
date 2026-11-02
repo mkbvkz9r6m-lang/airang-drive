@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Trip state belongs to this installation and vehicle. -->
+    <exclude domain="sharedpref" path="airang_trip_v2.xml" />
+</full-backup-content>

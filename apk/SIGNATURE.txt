@@ -1,0 +1,17 @@
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): false
+Verified using v3 scheme (APK Signature Scheme v3): true
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+Signer #1 certificate DN: CN=AirangDrive, OU=App, O=AirangDrive, C=KR
+Signer #1 certificate SHA-256 digest: fd0706aca34a670afcc9d24ac112f32bbfa5fc6ba64d2b3aa5834eaf87ff15ff
+Signer #1 certificate SHA-1 digest: cb9acddd2136a30945c197e4108ea5d459c39f8f
+Signer #1 certificate MD5 digest: c7202af13d82f3cac9b67225c813506b
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 3072
+Signer #1 public key SHA-256 digest: b2896b58f0d70504b447647f50ae29677b35997f7684f40eaf7fc4532784bcf2
+Signer #1 public key SHA-1 digest: e5e064dc3e185f249f72668ffd4ed43e95ce1164
+Signer #1 public key MD5 digest: ee06b6222580cc3f12409e8b1ea63ce3

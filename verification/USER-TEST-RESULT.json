@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-02",
+  "method": "user-reported manual test on Pleos emulator",
+  "apkSha256": "d6950738ddee2852c77ca71406ebd5b3386a1853e828590dd3ef94b6b5f62095",
+  "versionName": "0.13.0",
+  "versionCode": 13,
+  "checks": [
+    {
+      "name": "P gear reception and preparation settings",
+      "passed": true
+    },
+    {
+      "name": "Start trip",
+      "passed": true
+    },
+    {
+      "name": "Drive/reverse to park return prompt",
+      "passed": true
+    },
+    {
+      "name": "Two of three blocks completion; three of three allows completion in park",
+      "passed": true
+    },
+    {
+      "name": "Completed screen and prepare next trip",
+      "passed": true
+    }
+  ],
+  "automatedProcessObserved": false,
+  "note": "The original process check reported false. App launch and all five interactive checks were subsequently confirmed by the user. This is not an independently observed or real-vehicle test."
+}
