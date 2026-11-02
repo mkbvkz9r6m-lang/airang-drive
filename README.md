@@ -6,12 +6,12 @@ Pleos 차량 기어 정보와 보호자의 직접 확인을 연결해 출발 준
 
 - package: `com.airang.drive`
 - version: `0.13.0` (13)
-- 제출용 서명 release APK: `apk/AirangDrive_AirangDrive_release.apk`
+- 제출용 서명 release APK: `apk/최수용_아이랑드라이브_release.apk`
 - APK SHA256: `apk/SHA256SUMS.txt`
 - 서명 검증 결과: `apk/SIGNATURE.txt`
 - 빌드 결과 및 설치 검증 여부: `BUILD-RESULT.json`
 
-APK 파일명은 제출 준비 도구에서 개인 참가자명에 맞춰 변경합니다. 파일명 변경은 APK 내부 내용이나 서명을 바꾸지 않습니다.
+APK 파일명은 개인 참가자 최수용의 제출용 이름으로 정리했습니다. 파일명 변경은 APK 내부 내용이나 서명을 바꾸지 않습니다.
 
 ## 테스트 환경과 필요한 설정
 
@@ -40,7 +40,7 @@ Windows 명령줄 빌드:
 깨끗한 Pleos 에뮬레이터 또는 동일한 release 키로 서명된 앱이 설치된 기기에서:
 
 ```powershell
-adb -s <Pleos-emulator-serial> install -r "apk/AirangDrive_AirangDrive_release.apk"
+adb -s <Pleos-emulator-serial> install -r "apk/최수용_아이랑드라이브_release.apk"
 adb -s <Pleos-emulator-serial> shell am start -W -n com.airang.drive/.MainActivity
 ```
 
